@@ -56,7 +56,7 @@ plt.plot(x,ypred,color='Blue')
 plt.show()
 ```
 ## Output
-![](./univariate.png)
+![](./univari.png)
 
 ## Result
 
